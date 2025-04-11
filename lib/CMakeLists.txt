@@ -1,0 +1,1 @@
+add_library(sorted_vector INTERFACE sorted_vector.hpp)
